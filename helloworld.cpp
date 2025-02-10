@@ -8,6 +8,8 @@ int main()
     int operation;
     int ans = 0;
 
+    cout << "Hello World";
+
     cout << "Enter first number: ";
     cin >> num1;
 
